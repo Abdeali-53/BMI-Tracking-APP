@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "39C08A6F-0745-4393-B491-F80B471EAC4E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66E79F2E-4ED8-4524-893F-6AD05808DDA8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI_Tracking_App/ListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "66E79F2E-4ED8-4524-893F-6AD05808DDA8 - 46fe95391a582f32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Tracking_App.ListViewController.newWeight.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "BMI_Tracking_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Mobile%20Application%20Development/IOS%20Development/BMI%20Tracking%20App%20(Final%20Test)/BMI-Tracking-APP/BMI_Tracking_App/BMI_Tracking_App/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "66E79F2E-4ED8-4524-893F-6AD05808DDA8 - fdf87d03641ed326"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Tracking_App.ListViewController.newWeight.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "BMI_Tracking_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Mobile%20Application%20Development/IOS%20Development/BMI%20Tracking%20App%20(Final%20Test)/BMI-Tracking-APP/BMI_Tracking_App/BMI_Tracking_App/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "66E79F2E-4ED8-4524-893F-6AD05808DDA8 - b6b9aa1d24c9389"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Tracking_App.ListViewController.newWeight.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "BMI_Tracking_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Mobile%20Application%20Development/IOS%20Development/BMI%20Tracking%20App%20(Final%20Test)/BMI-Tracking-APP/BMI_Tracking_App/BMI_Tracking_App/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "66E79F2E-4ED8-4524-893F-6AD05808DDA8 - bb5a632f1d3e5333"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Tracking_App.ListViewController.newWeight.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BMI_Tracking_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Mobile%20Application%20Development/IOS%20Development/BMI%20Tracking%20App%20(Final%20Test)/BMI-Tracking-APP/BMI_Tracking_App/BMI_Tracking_App/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "66E79F2E-4ED8-4524-893F-6AD05808DDA8 - 9f555116ac581fa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Tracking_App.ListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BMI_Tracking_App.ListViewController"
+                  moduleName = "BMI_Tracking_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Mobile%20Application%20Development/IOS%20Development/BMI%20Tracking%20App%20(Final%20Test)/BMI-Tracking-APP/BMI_Tracking_App/BMI_Tracking_App/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "259">
+               </Location>
+               <Location
+                  uuid = "66E79F2E-4ED8-4524-893F-6AD05808DDA8 - 79330f766a488f9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Tracking_App.ListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BMI_Tracking_App.ListViewController&gt;"
+                  moduleName = "BMI_Tracking_App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Applications/Mobile%20Application%20Development/IOS%20Development/BMI%20Tracking%20App%20(Final%20Test)/BMI-Tracking-APP/BMI_Tracking_App/BMI_Tracking_App/ListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
